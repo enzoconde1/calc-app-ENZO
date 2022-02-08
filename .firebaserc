@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "enzo-calc-app",
+    "react-calculator": "enzo-calc-app"
+  },
+  "targets": {}
+}
